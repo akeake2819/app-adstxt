@@ -1,3 +1,10 @@
+- RESTPROJECT_ID:Google Cloud
+- {.txt}
+- Notepad {Windows} TextEdit {Mac} apps-ads.txt 
+- {AIB Tech Lab} example.com 
+- https://example.com/apps-ads.txt
+- example.com/ads.txt
+- 
 - "Google" 
 - "security@google.com"
 - security@
@@ -18,7 +25,6 @@
 - Google AdMob AdSense Firebase 
 - ใช้เพิ่มประสิทธิภาพ {AdMob}
 - {Android Ad Manager} https://developers.google.com/admanager/mobile-ads-sdk/android/privacy
-- {Apple Ad Manager}
-- https://develapers.google.com/admanager/mobile-ads-sdk/ios/privacy
+- {Apple Ad Manager} https://develapers.google.com/admanager/mobile-ads-sdk/ios/privacy
 - https://apps.admob.com/admanager/mobile-ads-sdk/admob/privacy
 
